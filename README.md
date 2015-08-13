@@ -37,8 +37,7 @@ http://www.pluralsight.com/courses/git-fundamentals
 - [ ] remove a remote branch
 
 
-** testing some branch/merge/rebase**
-
+** playing with some branch/merge/rebase stuff**
 
 > Feature1
 >> feature2
