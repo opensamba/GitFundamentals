@@ -8,3 +8,4 @@ http://www.pluralsight.com/courses/git-fundamentals
  + add remote repo
  + push origin to remote
 Fixing bug #1234
+another fix to bug 1234
