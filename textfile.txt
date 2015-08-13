@@ -1,1 +1,2 @@
 this is a line in the text file
+adding mode code for feature3
