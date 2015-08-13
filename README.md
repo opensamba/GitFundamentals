@@ -37,7 +37,7 @@ http://www.pluralsight.com/courses/git-fundamentals
 - [x] remove a remote branch
 
 
-** playing with some branch/merge/rebase stuff**
+**playing with some branch/merge/rebase stuff**
 
 > Feature1
 >> feature2
