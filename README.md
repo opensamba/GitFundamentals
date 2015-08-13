@@ -13,3 +13,5 @@ http://www.pluralsight.com/courses/git-fundamentals
  + ~~create logs directory~~
  + ~~create .gitignore and add logs/ in there~~
  + ~~add a new text file~~
+ + sharing remotely 
+
