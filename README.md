@@ -7,3 +7,4 @@ http://www.pluralsight.com/courses/git-fundamentals
  + first commit 
  + add remote repo
  + push origin to remote
+Fixing bug #1234
