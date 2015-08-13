@@ -5,6 +5,7 @@ This repo is a git fundamental test place
 I use this remote repo and following the class here: 
 http://www.pluralsight.com/courses/git-fundamentals
 
+<<<<<<< HEAD
 ## TODO list
 
  + ~~first commit~~
@@ -19,3 +20,5 @@ http://www.pluralsight.com/courses/git-fundamentals
 Feature1
 feature2
 feature2 changes
+Fixing bug #1234
+another fix to bug 1234
