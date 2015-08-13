@@ -10,3 +10,6 @@ http://www.pluralsight.com/courses/git-fundamentals
  + ~~first commit~~
  + ~~add remote repo~~
  + ~~push origin to remote~~
+ + ~~create logs directory~~
+ + ~~create .gitignore and add logs/ in there~~
+ + ~~add a new text file~~
