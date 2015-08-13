@@ -17,3 +17,5 @@ http://www.pluralsight.com/courses/git-fundamentals
  + ~~adding tags~~
  + add signed tag
 Feature1
+feature2
+feature2 changes
