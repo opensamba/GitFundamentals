@@ -33,8 +33,8 @@ http://www.pluralsight.com/courses/git-fundamentals
 - [x] apply the bug1234 in the master
 - [x] check all the feature has been applied in the readme file
 - [x] delete old merged branches
-- [ ] create a remote branch
-- [ ] remove a remote branch
+- [x] create a remote branch
+- [x] remove a remote branch
 
 
 ** playing with some branch/merge/rebase stuff**
